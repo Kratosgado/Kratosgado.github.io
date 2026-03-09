@@ -1,1 +1,0 @@
-import{a2 as n,a5 as s}from"./DiAElaro.js";import{J as l,E as c,G as p,ai as u,z as i}from"./Cfc_Yw_h.js";const m={base:""},_={__name:"ProseStrong",props:{class:{type:null,required:!1}},setup(e){const a=e,o=n(),t=i(()=>s({extend:s(m),...o.ui?.prose?.strong||{}}));return(r,f)=>(l(),c("strong",{class:u(t.value({class:a.class}))},[p(r.$slots,"default")],2))}};export{_ as default};
