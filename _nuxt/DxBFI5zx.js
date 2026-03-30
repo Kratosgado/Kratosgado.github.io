@@ -1,0 +1,1 @@
+import{a2 as n,a5 as s}from"./BqlMdasM.js";import{J as c,E as p,G as l,ai as m,z as i}from"./Cfc_Yw_h.js";const u={base:""},g={__name:"ProseEm",props:{class:{type:String,required:!1}},setup(e){const a=e,o=n(),t=i(()=>s({extend:s(u),...o.ui?.prose?.em||{}}));return(r,f)=>(c(),p("em",{class:m(t.value({class:a.class}))},[l(r.$slots,"default")],2))}};export{g as default};
