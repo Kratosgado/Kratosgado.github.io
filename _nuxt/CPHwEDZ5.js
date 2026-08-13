@@ -1,1 +1,0 @@
-import{B as l,E as s}from"./Bxk5ZIMR.js";import{J as n,E as c,G as p,ai as u,z as i}from"./Ce_srtNL.js";const m={base:""},b={__name:"ProseTbody",props:{class:{type:null,required:!1}},setup(e){const o=e,a=l(),t=i(()=>s({extend:s(m),...a.ui?.prose?.tbody||{}}));return(r,d)=>(n(),c("tbody",{class:u(t.value({class:o.class}))},[p(r.$slots,"default")],2))}};export{b as default};
