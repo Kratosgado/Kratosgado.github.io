@@ -1,1 +1,0 @@
-import{c as o}from"./GAcANe9o.js";import{A as e,a3 as i}from"./BOSbsnfW.js";const[n]=o("ConfigProvider");function s(t){const r=n({dir:e("ltr")});return i(()=>t?.value||r.dir?.value||"ltr")}export{s as u};

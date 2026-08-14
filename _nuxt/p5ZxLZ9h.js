@@ -1,1 +1,0 @@
-import{t as s}from"./_iPIppFg.js";import{aB as n,D as c,E as p,ag as l,W as m,a3 as u}from"./BOSbsnfW.js";const i={base:""},g={__name:"ProseEm",props:{class:{type:String,required:!1}},setup(e){const a=e,t=n(),o=u(()=>s({extend:s(i),...t.ui?.prose?.em||{}}));return(r,f)=>(c(),p("em",{class:m(o.value({class:a.class}))},[l(r.$slots,"default")],2))}};export{g as default};
