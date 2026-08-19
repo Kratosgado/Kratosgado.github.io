@@ -1,0 +1,1 @@
+import{aQ as a,aR as c,ah as u,aN as p,a4 as m}from"./DKJTjo7r.js";function i(o){const e=u(),s=e?.type.emits,t={};return s?.length||console.warn(`No emitted event found. Please check component: ${e?.type.__name}`),s?.forEach(n=>{t[a(c(n))]=(...r)=>o(n,...r)}),t}function l(o,e){const s=p(o),t=e?i(e):{};return m(()=>({...s.value,...t}))}export{l as u};
